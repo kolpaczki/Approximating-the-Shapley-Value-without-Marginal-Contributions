@@ -1,5 +1,5 @@
 # Code for Approximating the Shapley Value without Marginal Contributions
-This repository contains the code to run the experiments conducted for the paper "Approximating the Shapley Value without Marginal Contributions" accpeted at AAAI-2024.
+This repository contains the code to run the experiments conducted for the paper "Approximating the Shapley Value without Marginal Contributions" accepted at AAAI-2024.
 
 # How to run the experiments
 There exists a specific file for each game.
