@@ -1,8 +1,7 @@
 # Code for Approximating the Shapley Value without Marginal Contributions
-This folder contains the code to run the experiments conducted for the submission "Approximating the Shapley Value without Marginal  Contributions".
+This repository contains the code to run the experiments conducted for the paper "Approximating the Shapley Value without Marginal Contributions" accpeted at AAAI-2024.
 
 # How to run the experiments
-
 There exists a specific file for each game.
 For example, in order to run the Airport game, execute the file "run_airport.py".
 The results are printed into a file into the Data folder for each algorithm used.
